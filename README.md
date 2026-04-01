@@ -1,24 +1,24 @@
-# 🚀 Real-Time Object Detection Optimization
+# Real-Time Object Detection Optimization
 
-## 📌 Description
+##  Description
 This project improves real-time object detection performance using YOLOv8.
 
-## ⚡ Optimization Techniques
+##  Optimization Techniques
 - Frame resizing
 - Frame skipping
 - Lightweight model (YOLOv8n)
 
-## 📊 Results
+##  Results
 - FPS improved from 12 → 22
 - Latency reduced from 80ms → 40ms
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - OpenCV
 - YOLOv8
 
-## 📸 Output
+##  Output
 (Add screenshots here)
 
-## 🎯 Conclusion
+##  Conclusion
 Achieved ~30–80% performance improvement.
